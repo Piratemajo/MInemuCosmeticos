@@ -57,6 +57,3 @@ Para soporte adicional o informar problemas, visita la sección de **Issues** en
 
 ¡Disfruta usando MinemuCosmeticos y mejora la experiencia de juego para tus jugadores!
 
----
-
-Este README fue creado con amor usando Markdown para GitHub.
