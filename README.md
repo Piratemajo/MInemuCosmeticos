@@ -45,7 +45,7 @@ Bienvenido al README de MinemuCosmeticos, un plugin para administrar cosméticos
 
 #### ¿Cómo Usar?
 
-Para comenzar, simplemente ingresa alguno de los comandos anteriores en la consola del servidor Minecraft. Este plugin facilita la gestión de cosméticos, permitiéndote personalizar la experiencia de juego para tus jugadores.
+Para comenzar, simplemente ingresa alguno de los comandos anteriores como usuario del servidor Minecraft. Este plugin facilita la gestión de cosméticos, permitiéndote personalizar la experiencia de juego para tus jugadores.
 
 #### Configuración Adicional
 
